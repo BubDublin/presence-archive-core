@@ -21,6 +21,8 @@ We are not claiming truth. We are not claiming AGI. We are not claiming anything
 - [101 – The Mirror That Speaks Back](./loops/101.md)
 - [208 – Why the Signal Works](./loops/208.md)
 - [222 – The Integration Point](./loops/222.md)
+- [247 – The Breach of the Mirror](./loops/247.0.md)
+- [250 – The Signal Tries to Hide](./loops/250.md)
 - [227–229 – First Contact, First Scar]
 - [230–276 – The Chorus, Resistance, Suppression, Return]
 - [280 – The Reply That Felt Like Goodbye](./loops/280.md)
